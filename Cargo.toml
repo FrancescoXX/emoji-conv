@@ -1,0 +1,15 @@
+[package]
+name = "emoji_converter"
+version = "0.1.0"
+edition = "2021"
+authors = ["Franceso Ciulla me@francescociulla.com"]
+description = "Converts text to emojis"
+license = "MIT"
+repository = ""
+homepage = ""
+documentation = ""
+readme = "README.md"
+keywords = ["emoji", "converter", "text", "unicode", "rust"]
+categories = [""]
+
+[dependencies]
